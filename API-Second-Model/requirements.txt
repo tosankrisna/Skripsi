@@ -1,0 +1,8 @@
+Flask
+flask_sqlalchemy
+numpy
+Pillow
+tensorflow
+pymysql
+opencv-python
+gdown
